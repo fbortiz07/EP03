@@ -1,0 +1,43 @@
+@charset "utf-8";
+/* CSS Document */
+div#header
+{
+	position:fixed;
+	top:0px;
+	left:2px;
+	width:97%;
+	color: white;
+	background-color: gray;
+	padding: 5px;
+	margin-top: 10px;
+	border: 5px solid royalblue;
+	border-radius: 10px 10px 10px 10px;
+	box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.47);
+	font-family:"segoe print", Geneva, sans-serif;
+	font-size: 25px;
+	}
+div#footer
+{
+	position:fixed;
+	bottom:8px;
+	left:2px;
+	width:97%;
+	color: white;
+	background-color: gray;
+	padding: 8px;
+	margin-top: 10px;
+	border: 5px solid royalblue;
+	border-radius: 10px 10px 10px 10px;
+	box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.47);
+	font-family:"segoe print", Geneva, sans-serif;
+}
+div#container {
+	font-family: "segoe print", Courier, monospace;
+	font-size: 25px;
+	position: relative;
+	width: 98%;
+	top: 150px;
+	border: 5px solid royalblue;
+	box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.47);
+	padding-bottom: 20px;
+}
